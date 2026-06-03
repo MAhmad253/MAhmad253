@@ -6,7 +6,7 @@ I build intelligent systems that solve real-world problems — from fake news de
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **AI / ML**
 `Python` `TensorFlow` `PyTorch` `Scikit-learn` `BERT` `Hugging Face` `Jupyter`
