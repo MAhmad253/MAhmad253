@@ -11,11 +11,11 @@ I build intelligent systems that solve real-world problems — from fake news de
 **AI / ML**
 `Python` `TensorFlow` `PyTorch` `Scikit-learn` `BERT` `Hugging Face` `Jupyter`
 
-**Web Development**
-`JavaScript` `React` `Node.js` `HTML/CSS`
+**Backend Development**
+`Python` `FastAPI` `Django` `REST APIs`
 
 **Tools & Platforms**
-`Git` `GitHub` `VS Code` `Google Colab` `Linux`
+`Git` `GitHub` `VS Code` `Google Colab` 
 
 ---
 
