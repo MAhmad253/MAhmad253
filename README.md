@@ -19,23 +19,11 @@ I build intelligent systems that solve real-world problems — from fake news de
 
 ---
 
-##  Featured Projects
+##  Final-Year-Project Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🛡 Fake News Detector](https://github.com/MAhmad253/fake-news-detection-using-bert-and-capsule-network) | BERT + Capsule Network classifies news as Real, Fake, or Misleading — 94%+ accuracy | Python, BERT, PyTorch |
 
----
-
-##  GitHub Stats
-
-![Muhammad Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAhmad253&show_icons=true&theme=dark&hide_border=true)
-
----
-
-##  Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 > Lahore, Pakistan · Open to remote & on-site opportunities
