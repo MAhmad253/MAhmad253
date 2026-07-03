@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Ahmad 
 
-> AI/ML Engineer · NLP & Deep Learning · Software Engineering Student @ COMSATS (2022–2026)
+> AI/ML Engineer · NLP & Deep Learning · Software Engineering Graduate @ COMSATS (2022–2026)
 
 Passionate AI/ML Engineer and Software Engineering graduate with hands-on experience in Machine Learning, Deep Learning, NLP, and FastAPI. Built intelligent solutions including a Fake News Detection system using BERT and Capsule Networks, and actively seeking opportunities in AI/ML, Data Science, and Software Engineering.
 
