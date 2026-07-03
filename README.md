@@ -23,7 +23,7 @@ Passionate AI/ML Engineer and Software Engineering graduate with hands-on experi
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🛡 Fake News Detector](https://github.com/MAhmad253/fake-news-detection-using-bert-and-capsule-network) | BERT + Capsule Network classifies news as Real, Fake, or Misleading — 94%+ accuracy | Python, BERT, PyTorch |
+| [🛡 Fake News Detector](https://github.com/MAhmad253/fake-news-detection-using-bert-and-capsule-network) | BERT + Capsule Network classifies news as Real, Fake, or Misleading — 89%+ accuracy | Python, BERT, PyTorch |
 
 
 > Lahore, Pakistan · Open to remote & on-site opportunities
