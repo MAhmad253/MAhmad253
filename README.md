@@ -37,6 +37,7 @@ I’m continuously exploring **LLMs, Agentic AI, advanced RAG, information retri
 
 **Data & Visualization**
 `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Excel`
+
 ---
 
 ##  Final-Year-Project Projects
